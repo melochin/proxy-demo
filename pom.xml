@@ -35,6 +35,11 @@
       <artifactId>byte-buddy</artifactId>
       <version>1.6.14</version>
     </dependency>
+    <dependency>
+      <groupId>net.bytebuddy</groupId>
+      <artifactId>byte-buddy-agent</artifactId>
+      <version>1.6.14</version>
+    </dependency>
   </dependencies>
 
   <build>
