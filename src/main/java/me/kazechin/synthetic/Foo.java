@@ -14,9 +14,9 @@ public class Foo {
 
 	}
 
-	static Object access$000(Foo foo) {
-		return foo.baz;
-	}
+//	static Object access$000(Foo foo) {
+//		return foo.baz;
+//	}
 
 	public static void main(String[] args) {
 		for(Method method : Foo.class.getDeclaredMethods()) {
